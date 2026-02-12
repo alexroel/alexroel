@@ -58,7 +58,7 @@ Aquí están las tecnologías que uso para dar vida a mis proyectos, organizadas
 ### 🌐 Sigueme en:
 <p align="left">
   <a href="https://roelcode.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/></a>
-  <a href="https://www.udemy.com/user/alex-roel-chb/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="udemy"/></a>
+  <a href="https://www.udemy.com/user/alex-roel/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="udemy"/></a>
   <a href="https://www.tiktok.com/@roelcode" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/></a>
   <a href="https://www.youtube.com/c/@roelcode" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
   <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
